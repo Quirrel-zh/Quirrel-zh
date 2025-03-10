@@ -24,18 +24,18 @@
 
 <!-- Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quirrel-zh&show_icons=true&theme=graywhite&count_private=true" alt="quirrel-zh's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirrel-zh&layout=compact&theme=graywhite" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quirrel-zh&show_icons=true&theme=graywhite&count_private=true" alt="quirrel-zh's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quirrel-zh&layout=compact&theme=graywhite" alt="Top Langs"/>
 </div>
 
 <!-- Recent Projects -->
 <h3 align="center">Recent Projects</h3>
 <div align="center">
   <a href="https://github.com/quirrel-zh/astrbot_plugin_moyuren">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=quirrel-zh&repo=astrbot_plugin_moyuren&theme=graywhite" alt="astrbot_plugin_moyuren"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quirrel-zh&repo=astrbot_plugin_moyuren&theme=graywhite" alt="astrbot_plugin_moyuren"/>
   </a>
   <a href="https://github.com/quirrel-zh/bilibili">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=quirrel-zh&repo=drag-practice&theme=graywhite" alt="drag-practice"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quirrel-zh&repo=drag-practice&theme=graywhite" alt="drag-practice"/>
   </a>
 </div>
 
