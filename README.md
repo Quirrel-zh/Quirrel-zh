@@ -24,8 +24,8 @@
 
 <!-- Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quirrel-zh&show_icons=true&theme=graywhite&count_private=true" alt="quirrel-zh's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quirrel-zh&layout=compact&theme=graywhite" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quirrel-ZH&theme=default&show_icons=true&hide_border=true&count_private=true" alt="quirrel-ZH's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirrel-ZH&theme=default&show_icons=true&hide_border=true&layout=compact" alt="quirrel-ZH's GitHub Stats" />
 </div>
 
 <!-- Recent Projects -->
