@@ -5,6 +5,7 @@
   <a href="https://github.com/quirrel-zh"><img src="https://img.shields.io/github/followers/quirrel-zh?label=Github&style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=quirrel-zh&label=Profile%20views&color=0088f5&style=flat-square" alt="quirrel-zh" />
 </p>
+<p align="center"><a href="https://www.buymeacoffee.com/quirrel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 <!-- Tech Stack -->
 <h3 align="center">Languages and Tools</h3>
