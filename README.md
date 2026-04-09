@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Quirrel</h1>
 <p align="center">
-  <a href="https://www.f2iclo.cn"><img src="https://img.shields.io/badge/Blog-f2iclo.cn-0088f5?style=flat-square&logo=hexo" alt="Blog"></a>
+  <a href="https://www.f2iclo.com"><img src="https://img.shields.io/badge/Blog-f2iclo.com-0088f5?style=flat-square&logo=hexo" alt="Blog"></a>
   <a href="https://github.com/quirrel-zh"><img src="https://img.shields.io/github/followers/quirrel-zh?label=Github&style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=quirrel-zh&label=Profile%20views&color=0088f5&style=flat-square" alt="quirrel-zh" />
 </p>
@@ -23,5 +23,8 @@
 
 <!-- Activity Graph -->
 <div align="center">
+  <h4>wakatime</h4>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f2iclo/135b2372-00ca-430b-971b-68ccea58d9c4.png" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quirrel-zh&theme=minimal" alt="Activity Graph">
+  
 </div>
