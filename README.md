@@ -24,7 +24,10 @@
 <!-- Activity Graph -->
 <div align="center">
   <h4>wakatime</h4>
+  <p>
+    <a href="https://wakatime.com/@78fca235-df6f-4bf9-996c-be6dfb9ddd47"><img src="https://wakatime.com/badge/user/78fca235-df6f-4bf9-996c-be6dfb9ddd47.svg" alt="Total time coded since Dec 18 2024" /></a>
+  </p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f2iclo/135b2372-00ca-430b-971b-68ccea58d9c4.png" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quirrel-zh&theme=minimal" alt="Activity Graph">
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=quirrel-zh&theme=minimal" alt="Activity Graph"> -->
   
 </div>
